@@ -1,0 +1,17 @@
+{
+  "payload": {
+    "schemaVersion": 1,
+    "repository": "Autumn-one/TouchPolitRRR",
+    "revision": 1,
+    "publishedAtUtc": "2026-09-15T11:28:36.1318263+00:00",
+    "endpoints": [
+      {
+        "baseAddress": "http://43.159.148.243",
+        "port": 4318,
+        "eventPath": "/v1/events"
+      }
+    ]
+  },
+  "keyId": "5e5b80c7741d41154ab9f22058f81a426c84d4cd315e5aa3ac004911c5b5087b",
+  "signature": "wU69nAcwBDySW2jwO1dXdpwQRzvThIAKvw4MNpjVMSiGDg/MOwyHu2lFOOp7Ypp4aVCI5vC\u002BOMjxQtghMvR5\u002Bg=="
+}
